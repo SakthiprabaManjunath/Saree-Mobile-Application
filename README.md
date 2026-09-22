@@ -1,4 +1,4 @@
-# demo
+# A Mobile Application
 
 A new Flutter project.
 
